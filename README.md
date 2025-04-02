@@ -19,6 +19,6 @@
 
 |권태형|이종범|임소연|김병성|
 |:------:|:------:|:------:|:------:|
-| <a href="https://github.com/k-tea"><img width="150px" style="max-width: 100%;" src="https://github.com/k-tea.png"></a> | <a href="https://github.com/whaqjd1128"><img width="150px" style="max-width: 100%;" src="https://github.com/whaqjd1128.png"></a> | <a href="https://github.com/imso01"><img width="150px" style="max-width: 100%;" src="https://github.com/imso01.png"></a> | <a href="https://github.com/kimbseong0814"><img width="150px" style="max-width: 100%;" src="https://github.com/kimbseong0814.png"></a> |
+| <a href="https://github.com/k-tea"><img width="150px" style="max-width: 100%;" src="https://github.com/k-tea.png"></a> | <a href="https://github.com/whdqja1128"><img width="150px" style="max-width: 100%;" src="https://github.com/whdqja1128.png"></a> | <a href="https://github.com/imso01"><img width="150px" style="max-width: 100%;" src="https://github.com/imso01.png"></a> | <a href="https://github.com/kimbseong0814"><img width="150px" style="max-width: 100%;" src="https://github.com/kimbseong0814.png"></a> |
 
 </div>
