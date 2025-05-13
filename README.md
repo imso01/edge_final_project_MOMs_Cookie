@@ -56,7 +56,7 @@ MOMS Cookie (Management Of Morning – Secretary : Cookie)는 바쁜 아침을 �
 - **Arduino Mega 버튼 입력**을 통한 위치 이동 명령 생성 및 서버 연동 처리  
 - **ESP32를 이용해 STM32와 Arduino Mega 간** Wi-Fi 기반 통신 구조 설계 및 명령 송수신 처리
 
-## 개발자
+## 👥 개발자
 <div align="center">
 
 |권태형|이종범|임소연|김병성|
