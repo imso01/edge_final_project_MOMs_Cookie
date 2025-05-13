@@ -30,7 +30,7 @@ MOMS Cookie (Management Of Morning – Secretary : Cookie)는 바쁜 아침을 �
 - IoT 연동으로 조명, 보일러, 가습기 등 환경 제어 가능  
 - 터틀봇에 버튼 또는 앱으로 명령해 원하는 장소로 이동시키는 호출 기능
 
-## 사용 기술들
+## 🛠️ 사용 기술들
 
 ✅ 프로그래밍 언어
 
