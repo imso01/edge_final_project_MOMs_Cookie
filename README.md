@@ -8,9 +8,10 @@
 
 - [📌 프로젝트 개요](#-프로젝트-개요)
 - [🔧 주요 기능](#-주요-기능)
-- [🛠️ 사용 기술들](#사용-기술들)
+- [🎬 시연 영상](#-시연-영상)
+- [🛠️ 사용 기술들](#-사용-기술들)
 - [👤 담당 역할](#-담당-역할)
-- [👥 개발자](#개발자)
+- [👥 개발자](#-개발자)
 
 ## 📌 프로젝트 개요
 
@@ -29,6 +30,17 @@ MOMS Cookie (Management Of Morning – Secretary : Cookie)는 바쁜 아침을 �
 - Flutter 앱을 통한 일정 관리 및 텍스트 기반 일정 요청 처리  
 - IoT 연동으로 조명, 보일러, 가습기 등 환경 제어 가능  
 - 터틀봇에 버튼 또는 앱으로 명령해 원하는 장소로 이동시키는 호출 기능
+
+## 🎬 시연 영상
+
+[![MOMS Cookie 시연 (대화 인터페이스)](https://img.youtube.com/vi/영상ID1/hqdefault.jpg)](https://www.youtube.com/watch?v=영상ID1)  
+> 대표 영상: 음성 대화 기반 비서 기능 시연 (일정 안내 및 응답)
+
+**기능별 영상 목록**
+- [음성 일정 등록 시연](https://youtube.com/shorts/영상ID2)
+- [실내 환경 제어 (가습기·조명 제어)](https://youtube.com/shorts/영상ID3)
+- [로봇 위치 이동 호출 시연](https://youtube.com/shorts/영상ID4)
+- [전체 시스템 통합 시연 (알람→이동→대화)](https://youtube.com/shorts/영상ID5)
 
 ## 🛠️ 사용 기술들
 
