@@ -51,10 +51,31 @@ MOMS Cookie (Management Of Morning – Secretary : Cookie)는 바쁜 아침을 �
 
 ## 🎬 시연 영상 모음
 
-[![집 모형 영상](https://img.youtube.com/vi/-xBAtXBPMFY/0.jpg)](https://www.youtube.com/watch?v=-xBAtXBPMFY)
-[![음성 비서 대화 영상](https://img.youtube.com/vi/xKy0_oODtoY/0.jpg)](https://www.youtube.com/watch?v=xKy0_oODtoY)
-[![비서 이동 영상](https://img.youtube.com/vi/nr2i7ydwIy8/0.jpg)](https://www.youtube.com/watch?v=nr2i7ydwIy8)
-[![일정 등록 시연 영상](https://i.ytimg.com/vi/-XafDlwGbOo/0.jpg)](https://www.youtube.com/watch?v=-XafDlwGbOo)
+### 🏠 집 모형 시연  
+[![집 모형 영상](https://img.youtube.com/vi/-xBAtXBPMFY/0.jpg)](https://www.youtube.com/watch?v=-xBAtXBPMFY)  
+✔ 알람이 울리면 자동으로 안방 불(초록 LED)과 보일러(빨간 LED)가 켜지며 기상 준비를 유도합니다.  
+✔ 온습도 및 수위 센서를 통해 조건이 충족되면 가습기(노란 LED)도 자동으로 작동합니다.
+
+---
+
+### 🗣️ 음성 비서 대화  
+[![음성 비서 대화 영상](https://img.youtube.com/vi/xKy0_oODtoY/0.jpg)](https://www.youtube.com/watch?v=xKy0_oODtoY)  
+✔ 날씨/미세먼지 정보를 API로 수집하고, 등록된 일정을 ChatGPT에게 전달하여 TTS로 음성 안내를 제공합니다.  
+✔ 사용자가 챗봇처럼 자유롭게 질문하면, 대답 역시 TTS로 응답됩니다.
+
+---
+
+### 🤖 비서 자동 이동  
+[![비서 이동 영상](https://img.youtube.com/vi/nr2i7ydwIy8/0.jpg)](https://www.youtube.com/watch?v=nr2i7ydwIy8)  
+✔ 알람이 울리면 침실에서 부엌으로 자동 이동하여 사용자의 아침 루틴을 자연스럽게 유도합니다.  
+✔ 이후 앱, 음성 명령, 버튼을 통해 원하는 위치로 비서를 자유롭게 이동시킬 수 있습니다.
+
+---
+
+### 🗓️ 일정 등록 기능  
+[![일정 등록 시연 영상](https://i.ytimg.com/vi/-XafDlwGbOo/0.jpg)](https://www.youtube.com/watch?v=-XafDlwGbOo)  
+✔ Flutter 앱을 통해 일정과 알람을 직접 등록할 수 있으며, 해당 정보는 음성 안내 및 이동 루틴에 반영됩니다.  
+✔ 영상에서는 일정 등록 UI와 동작 과정이 시연됩니다.
 
 ---
 
