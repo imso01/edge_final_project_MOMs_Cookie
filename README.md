@@ -42,6 +42,11 @@ MOMS Cookie (Management Of Morning – Secretary : Cookie)는 바쁜 아침을 �
 
 ## 🖥️ 시스템 구조도
 
+![시스템 구성도](./images/moms_cookie_architecture.png)
+
+본 구성도는 MOMS Cookie 시스템에서 사용된 실제 하드웨어 사진과 각 장치 간의 통신 흐름을 포함하여 시각화한 자료입니다.
+
+
 ---
 
 ## 👤 담당 역할
