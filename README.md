@@ -36,7 +36,7 @@ MOMS Cookie (Management Of Morning – Secretary : Cookie)는 바쁜 아침을 �
 [![집 모형 영상](https://img.youtube.com/vi/-xBAtXBPMFY/0.jpg)](https://www.youtube.com/watch?v=-xBAtXBPMFY)
 [![음성 비서 대화 영상](https://img.youtube.com/vi/xKy0_oODtoY/0.jpg)](https://www.youtube.com/watch?v=xKy0_oODtoY)
 [![비서 이동 영상](https://img.youtube.com/vi/nr2i7ydwIy8/0.jpg)](https://www.youtube.com/watch?v=nr2i7ydwIy8)
-[![일정 등록 시연 영상](https://img.youtube.com/vi/-KfOI46wywY/0.jpg)](https://www.youtube.com/watch?v=-KfOI46wywY)
+[![일정 등록 시연 영상](https://i.ytimg.com/vi/-KfOI46wywY/0.jpg)](https://www.youtube.com/watch?v=-KfOI46wywY)
 
 
 ## 🛠️ 사용 기술들
