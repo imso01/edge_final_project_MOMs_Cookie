@@ -4,14 +4,18 @@
   <p>더이상의 5분만은 없다</p>
 </div>
 
+---
+
 ## 📚 목차
 
 - [📌 프로젝트 개요](#-프로젝트-개요)
 - [🔧 주요 기능](#-주요-기능)
+- [👤 담당 역할](#-담당-역할)
 - [🎬 시연 영상](#-시연-영상)
 - [🛠️ 사용 기술들](#-사용-기술들)
-- [👤 담당 역할](#-담당-역할)
 - [👥 개발자](#-개발자)
+
+---
 
 ## 📌 프로젝트 개요
 
@@ -22,6 +26,8 @@ MOMS Cookie (Management Of Morning – Secretary : Cookie)는 바쁜 아침을 �
 > 🤖 ChatGPT 기반 응답 시스템과 Flutter 앱, IoT 장치를 연동하여  
 > 스마트폰 조작, 음성 상호작용, 위치 제어까지 모두 통합된 홈 어시스턴트를 구현했습니다.
 
+---
+
 ## 🔧 주요 기능
 
 - 사용자의 음성을 인식하고 정보를 스피커로 출력하는 대화형 인터페이스  
@@ -31,13 +37,26 @@ MOMS Cookie (Management Of Morning – Secretary : Cookie)는 바쁜 아침을 �
 - IoT 연동으로 조명, 보일러, 가습기 등 환경 제어 가능  
 - 터틀봇에 버튼 또는 앱으로 명령해 원하는 장소로 이동시키는 호출 기능
 
+---
+
+## 👤 담당 역할
+
+- **TurtleBot3의 SLAM 및 네비게이션 설정**을 통해 목적지 이동 기능 구현  
+- **STM32에 연결된 온습도 및 수위 센서** 기반으로  
+  가습기 조건 제어 및 알람 발생 시 조명·보일러 자동 작동 로직 구성  
+- **Arduino Mega 버튼 입력**을 통한 위치 이동 명령 생성 및 서버 연동 처리  
+- **ESP32를 이용해 STM32와 Arduino Mega 간** Wi-Fi 기반 통신 구조 설계 및 명령 송수신 처리
+
+---
+
 ## 🎬 시연 영상 모음
 
 [![집 모형 영상](https://img.youtube.com/vi/-xBAtXBPMFY/0.jpg)](https://www.youtube.com/watch?v=-xBAtXBPMFY)
 [![음성 비서 대화 영상](https://img.youtube.com/vi/xKy0_oODtoY/0.jpg)](https://www.youtube.com/watch?v=xKy0_oODtoY)
 [![비서 이동 영상](https://img.youtube.com/vi/nr2i7ydwIy8/0.jpg)](https://www.youtube.com/watch?v=nr2i7ydwIy8)
-[![일정 등록 시연 영상](https://i.ytimg.com/vi/-KfOI46wywY/0.jpg)](https://www.youtube.com/watch?v=-KfOI46wywY)
+[![일정 등록 시연 영상](https://i.ytimg.com/vi/-XafDlwGbOo/0.jpg)](https://www.youtube.com/watch?v=-XafDlwGbOo)
 
+---
 
 ## 🛠️ 사용 기술들
 
@@ -57,13 +76,7 @@ MOMS Cookie (Management Of Morning – Secretary : Cookie)는 바쁜 아침을 �
 
 <img src="https://img.shields.io/badge/cmake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"> <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 
-## 👤 담당 역할
-
-- **TurtleBot3의 SLAM 및 네비게이션 설정**을 통해 목적지 이동 기능 구현  
-- **STM32에 연결된 온습도 및 수위 센서** 기반으로  
-  가습기 조건 제어 및 알람 발생 시 조명·보일러 자동 작동 로직 구성  
-- **Arduino Mega 버튼 입력**을 통한 위치 이동 명령 생성 및 서버 연동 처리  
-- **ESP32를 이용해 STM32와 Arduino Mega 간** Wi-Fi 기반 통신 구조 설계 및 명령 송수신 처리
+---
 
 ## 👥 개발자
 <div align="center">
@@ -73,3 +86,5 @@ MOMS Cookie (Management Of Morning – Secretary : Cookie)는 바쁜 아침을 �
 | <a href="https://github.com/k-tae"><img width="150px" style="max-width: 100%;" src="https://github.com/k-tae.png"></a> | <a href="https://github.com/whdqja1128"><img width="150px" style="max-width: 100%;" src="https://github.com/whdqja1128.png"></a> | <a href="https://github.com/imso01"><img width="150px" style="max-width: 100%;" src="https://github.com/imso01.png"></a> | <a href="https://github.com/kimbseong0814"><img width="150px" style="max-width: 100%;" src="https://github.com/kimbseong0814.png"></a> |
 
 </div>
+
+---
